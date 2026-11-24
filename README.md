@@ -13,6 +13,7 @@
 | | |
 |---|---|
 | **הקוד (Unity)** | [Perfect-Heist-Code](https://github.com/Kfir-And-Evyatar-Game-Dev/Perfect-Heist-Code) |
+| **מטלה 5: איך בודקים את האירוע החי (Live Ops)** | [ב־README של מאגר הקוד](https://github.com/Kfir-And-Evyatar-Game-Dev/Perfect-Heist-Code#מטלה-5-בדיקת-האירוע-החי-live-ops) |
 | **לשחק בדפדפן** | [kfir-and-evyatar.itch.io/perfect-heist-prototype](https://kfir-and-evyatar.itch.io/perfect-heist-prototype) |
 
 ---
