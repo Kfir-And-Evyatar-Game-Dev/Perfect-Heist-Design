@@ -1,5 +1,22 @@
-# ---Perfect-Heist
-Game idea #2 Assignment 1 part b - our main game 
+# Perfect-Heist-Design
+
+**מאגר העיצוב של "השוד המושלם"**: כל מסמכי העיצוב של המשחק, לפי סדר המטלות בקורס פיתוח משחקי מחשב. הקוד של המשחק נמצא במאגר נפרד: **[Perfect-Heist-Code](https://github.com/Kfir-And-Evyatar-Game-Dev/Perfect-Heist-Code)**.
+
+| מטלה | מסמך |
+|---|---|
+| 1ב: רעיון למשחק ורכיבים רשמיים | [formal-elements.perfect-heist .md](formal-elements.perfect-heist%20.md) |
+| 2ב: מחקר שוק | [Market_Research.md](Market_Research.md) |
+| 4: תכנון רמות | [Level_Design.md](Level_Design.md), עם המפות בתיקייה [level-maps](level-maps) |
+| 5: רכיבים דרמטיים | [dramatic-elements.md](dramatic-elements.md) |
+| 5: העלילה ב־Twine | **[לשחק בדפדפן](https://kfir-and-evyatar-game-dev.github.io/Perfect-Heist-Design/twine/perfect-heist-story.html)**, [קובץ המקור](twine/perfect-heist-story.twee) |
+
+| | |
+|---|---|
+| **הקוד (Unity)** | [Perfect-Heist-Code](https://github.com/Kfir-And-Evyatar-Game-Dev/Perfect-Heist-Code) |
+| **לשחק בדפדפן** | [kfir-and-evyatar.itch.io/perfect-heist-prototype](https://kfir-and-evyatar.itch.io/perfect-heist-prototype) |
+
+---
+
 השוד המושלם | PERFECT HEIST
 השוד מתחיל בתוכנית טובה — לא במרוץ נגד השעון.
 על המשחק
@@ -38,7 +55,7 @@ Game idea #2 Assignment 1 part b - our main game
 - שליטה: מקלדת ועכבר בממשק תכנון משותף
 - מצב הפרויקט: תכנון במסגרת מטלה 1ב בקורס פיתוח משחקי מחשב
 רכיבים רשמיים וסקר שוק
-[למסמך הרכיבים הרשמיים וסקר המשחקים הקיימים](formal-elements.md)
+[למסמך הרכיבים הרשמיים וסקר המשחקים הקיימים](formal-elements.perfect-heist%20.md)
 חברי הצוות
 - אביתר אהרון
 - כפיר נזרי
