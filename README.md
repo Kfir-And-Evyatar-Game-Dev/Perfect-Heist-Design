@@ -9,6 +9,7 @@
 | 4: תכנון רמות | [Level_Design.md](Level_Design.md), עם המפות בתיקייה [level-maps](level-maps) |
 | 5: רכיבים דרמטיים | [dramatic-elements.md](dramatic-elements.md) |
 | 5: העלילה ב־Twine | **[לשחק בדפדפן](https://kfir-and-evyatar-game-dev.github.io/Perfect-Heist-Design/twine/perfect-heist-story.html)**, [קובץ המקור](twine/perfect-heist-story.twee) |
+| 6 (א1 וא2) — פתיחה ומפות | [תהליך הפתיחה, שלוש מפות השוד והוראות הבדיקה ב־Unity](https://github.com/Kfir-And-Evyatar-Game-Dev/Perfect-Heist-Code#מטלה-6--פתיחה-ומפות) |
 
 | | |
 |---|---|
